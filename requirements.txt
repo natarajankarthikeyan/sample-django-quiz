@@ -29,7 +29,6 @@ pypiwin32==223
 python-decouple==3.4
 pyttsx3==2.90
 pytz==2020.5
-pywin32==300
 six==1.15.0
 sqlparse==0.4.1
 toml==0.10.2
