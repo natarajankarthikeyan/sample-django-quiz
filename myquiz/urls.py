@@ -19,3 +19,4 @@ urlpatterns = [
 
 urlpatterns = format_suffix_patterns(urlpatterns)
 urlpatterns=urlpatterns+static(settings.MEDIA_URL,document_root=setting.MEDIA_ROOT)
+urlpatterns=urlpatterns+static(settings.MEDIA_URL,document_root=setting.STATIC_ROOT)
