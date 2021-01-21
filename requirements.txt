@@ -25,9 +25,11 @@ py==1.10.0
 pylint==2.6.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
+pypiwin32==223
 python-decouple==3.4
 pyttsx3==2.90
-pytz==2020.5	
+pytz==2020.5
+pywin32==300
 six==1.15.0
 sqlparse==0.4.1
 toml==0.10.2
